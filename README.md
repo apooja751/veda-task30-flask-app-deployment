@@ -110,14 +110,6 @@ The EC2 security group was configured with:
 
 SSH access was restricted to the administrator's public IP address.
 
-## GitHub Repository
-
-https://github.com/apooja751/veda-task30-flask-app-deployment
-
-## Live Application
-
-http://13.232.2.55:5000
-
 ## Learning Outcomes
 
 - Learned to launch and configure an AWS EC2 instance.
